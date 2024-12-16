@@ -38,14 +38,13 @@ nav-menu: true
   					<dd>🔮 Predictive Analysis</dd>
   					<dd>🔥 Streak Tracker</dd>
 				</dl>
-
 				<ul class="actions">
 					<li><a href="https://github.com/leif-hill/study-tracker" class="button">GitHub</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
+	<!-- <section>
 		<a href="generic.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
@@ -76,7 +75,7 @@ nav-menu: true
 				</ul>
 			</div>
 		</div>
-	</section>
+	</section> -->
 </section>
 
 <!-- Three -->
