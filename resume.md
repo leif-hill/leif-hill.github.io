@@ -20,29 +20,44 @@ nav-menu: true
 	<div class="6u 12u$(small)">
 		<h3>Education</h3>
 		<ul>
-			<li>September 2022 - December 2022 | Kwantlen Polytechnic University (High School Careers Program)
-				<ul>
-					<li>Systems Analysis and Design</li>
-					<li>Surrey, BC</li>
-				</ul>
-			</li>
-			<li>September 2020 - June 2024 | Yale Secondary School
-				<ul>
-					<li>Dogwood Diploma</li>
-					<li>Abbotsford, BC</li>
-				</ul>
-			</li>
-			<li>September 2024 - Present | Queen’s University
+			<li><a href="https://www.cs.queensu.ca/" target="_blank" style="color: inherit; text-decoration: none;">Queen’s University</a> | September 2024 - Present
 				<ul>
 					<li>Bachelor of Computing (Honours)</li>
 					<li>Kingston, ON</li>
 				</ul>
 			</li>
+			<li>Yale Secondary School | September 2020 - June 2024
+				<ul>
+					<li>Dogwood Diploma</li>
+					<li>Abbotsford, BC</li>
+				</ul>
+			</li>
+			<li><a href="https://kpu.ca" target="_blank" style="color: inherit; text-decoration: none;">Kwantlen Polytechnic University</a> (High School Careers Program) | September 2022 - December 2022
+				<ul>
+					<li>Systems Analysis and Design</li>
+					<li>Surrey, BC</li>
+				</ul>
+			</li>
 		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Experience</h3>
+		<h4>McDonald's | Crew Member, Trainer | June 2020 - February 2023</h4>
+		<h6>Abbotsford, BC</h6>
+		<ul>
+			<li>Trained new employees and ensured adherence to McDonald’s operational standards, enhancing team efficiency and customer satisfaction.</li>
+		</ul>
+		<h4>McDonald's | Team Leader, Employee Experience Lead, Training Coordinator | February 2023 - August 2024</h4>
+		<h6>Abbotsford, BC</h6>
+		<ul>
+			<li>Developed an internal tool using JavaScript, HTML/CSS, and Excel to automate scheduling and data entry, improving operational efficiency and streamlining workflows.</li>
+			<li>Led training programs and employee engagement initiatives, fostering team growth, improving morale, and enhancing retention through strategic feedback and incentives.</li>
+		</ul>
+		<h4>Private Math Tutor | April 2024 - August 2024</h4>
+		<h6>Abbotsford, BC</h6>
+		<ul>
+			<li>Provided one-on-one tutoring for students in grades 9-11, specializing in Precalculus, to improve their understanding of complex mathematical concepts and boost academic performance.</li>
+		</ul>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: assets/images/pic01.jpg
+image: assets/images/pic12.jpg
 nav-menu: true
 ---
 
@@ -12,7 +12,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Resume</h1>
+			<h1>About Me</h1>
 		</header>
 
 <!-- Content -->
