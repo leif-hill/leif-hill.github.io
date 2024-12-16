@@ -30,8 +30,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Study Tracker</h3>
 				</header>
-				<p>Study Tracker is a Python CLI tool designed to help users track study habits and increase productivity.</p><br>
-				<dl>
+				<p>Study Tracker is a Python CLI tool designed to help users track study habits and increase productivity.</p>
+				<dl style="transform: translateY(-15px);">
   					<dt>Key Features:</dt>
  					<dd>📚 Log Study Hours</dd>
   					<dd>📊 Data Visualization</dd>
