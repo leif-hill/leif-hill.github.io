@@ -34,6 +34,7 @@ nav-menu: true
 			</li>
 			<li><a href="https://kpu.ca" target="_blank" style="color: inherit; text-decoration: none;">Kwantlen Polytechnic University</a> (High School Careers Program) | September 2022 - December 2022
 				<ul>
+					<li>Dual Credit Program</li>
 					<li>Systems Analysis and Design</li>
 					<li>Surrey, BC</li>
 				</ul>
@@ -45,22 +46,19 @@ nav-menu: true
 		<ul>
 			<li>McDonald's | Crew Member, Trainer | June 2020 - February 2023
 				<ul>
-					<li><h6>Abbotsford, BC</h6></li>
 					<li>Trained new employees and ensured adherence to McDonald’s operational standards, enhancing team efficiency and customer satisfaction.</li>
-				<ul>
+				</ul>
 			</li>
 			<li>McDonald's | Team Leader, Employee Experience Lead, Training Coordinator | February 2023 - August 2024
 				<ul>
-					<li><h6>Abbotsford, BC</h6></li>
 					<li>Developed an internal tool using JavaScript, HTML/CSS, and Excel to automate scheduling and data entry, improving operational efficiency and streamlining workflows.</li>
 					<li>Led training programs and employee engagement initiatives, fostering team growth, improving morale, and enhancing retention through strategic feedback and incentives.</li>
-				<ul>
+				</ul>
 			</li>
 			<li>Private Math Tutor | April 2024 - August 2024
 				<ul>
-					<li><h6>Abbotsford, BC</h6></li>
 					<li>Provided one-on-one tutoring for students in grades 9-11, specializing in Precalculus, to improve their understanding of complex mathematical concepts and boost academic performance.</li>
-				<ul>
+				</ul>
 			</li>
 		</ul>
 	</div>
