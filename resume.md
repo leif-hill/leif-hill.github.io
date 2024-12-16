@@ -40,8 +40,8 @@ nav-menu: true
 			</li>
 		</ul>
 	</div>
-	<div class="6u$ 12u$(small)">
-		<h3>Experience</h3>
+	<div class="6u 12u$(small)">
+		<h3>*Experience</h3>
 		<h4>McDonald's | Crew Member, Trainer | June 2020 - February 2023</h4>
 		<h6>Abbotsford, BC</h6>
 		<ul>
