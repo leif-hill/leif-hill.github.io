@@ -41,8 +41,8 @@ nav-menu: true
 			</li>
 		</ul>
 	</div>
-	<div class="6u 12u$(small)" style="transform: translateY(-1px);">
-		<h3>*Experience</h3>
+	<div class="6u 12u$(small)" style="transform: translateY(-50px);">
+		<h3>Experience</h3>
 		<ul>
 			<li><b>McDonald's</b> | Crew Member, Trainer | June 2020 - February 2023
 				<ul>
