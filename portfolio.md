@@ -31,13 +31,14 @@ nav-menu: true
 					<h3>Study Tracker</h3>
 				</header>
 				<p>Study Tracker is a Python CLI tool designed to help users track study habits and increase productivity.</p><br>
-				<p><b>Key Features:</b></p>
-				<ul>
-					<li>📚 Log Study Hours</li>
-					<li>📊 Data Visualization</li>
-  					<li>🔮 Predictive Analysis</li>
-  					<li>🔥 Streak Tracker</li>
-				</ul>
+				<dl>
+  					<dt>Key Features:</dt>
+ 					<dd>📚 Log Study Hours</dd>
+  					<dd>📊 Data Visualization</dd>
+  					<dd>🔮 Predictive Analysis</dd>
+  					<dd>🔥 Streak Tracker</dd>
+				</dl>
+
 				<ul class="actions">
 					<li><a href="https://github.com/leif-hill/study-tracker" class="button">GitHub</a></li>
 				</ul>
