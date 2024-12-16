@@ -15,6 +15,10 @@ nav-menu: true
 			<h1>Resume</h1>
 		</header>
 
+<div style="background-color: red; color: white; text-align: center; padding: 10px; font-size: 20px; font-weight: bold;">
+  NOTICE: PAGE IS UNDER CONSTRUCTION
+</div>
+
 <!-- Content -->
 <div class="row">
 	<div class="6u 12u$(small)">
@@ -62,7 +66,7 @@ nav-menu: true
 		</ul>
 	</div>
 	<!-- Break -->
-	<div class="4u 12u$(medium)">
+	<!-- <div class="4u 12u$(medium)">
 		<h3>Interdum sapien gravida</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
 	</div>
@@ -73,7 +77,7 @@ nav-menu: true
 	<div class="4u$ 12u$(medium)">
 		<h3>Accumsan montes viverra</h3>
 		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
-	</div>
+	</div> -->
 </div>
 
 </div>
