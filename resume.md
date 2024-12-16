@@ -43,23 +43,18 @@ nav-menu: true
 	</div>
 	<div class="6u 12u$(small)">
 		<h3>Experience</h3>
-		<h4><b>McDonald's</b> · 4 yrs 3 mos</h4>
 		<ul>
-			<li>Crew Member, Trainer | June 2020 - February 2023
+			<li><b>McDonald's</b> | Crew Member, Trainer | June 2020 - February 2023
 				<ul>
 					<li>Trained new employees and ensured adherence to McDonald’s operational standards, enhancing team efficiency and customer satisfaction.</li>
 				</ul>
 			</li>
-			<li>Team Leader, Employee Experience Lead, Training Coordinator | February 2023 - August 2024
+			<li><b>McDonald's</b> | Team Leader, Employee Experience Lead, Training Coordinator | February 2023 - August 2024
 				<ul>
-					<li>Developed an internal tool using JavaScript, HTML/CSS, and Excel to automate scheduling and data entry, improving operational efficiency and streamlining workflows.</li>
-					<li>Led training programs and employee engagement initiatives, fostering team growth, improving morale, and enhancing retention through strategic feedback and incentives.</li>
+					<li>Developed an internal tool using JavaScript, HTML/CSS, and Excel to automate scheduling and data entry, while leading training programs and employee engagement initiatives to improve operational efficiency, team growth, morale, and retention.</li>
 				</ul>
 			</li>
-		</ul>
-		<h4><b>Private Math Tutor</b> · 4 mos</h4>
-		<ul>
-			<li>Self-employed | April 2024 - August 2024
+			<li><b>Private Math Tutor</b> | April 2024 - August 2024
 				<ul>
 					<li>Provided one-on-one tutoring for students in grades 9-11, specializing in Precalculus, to improve their understanding of complex mathematical concepts and boost academic performance.</li>
 				</ul>
