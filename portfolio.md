@@ -77,4 +77,14 @@ nav-menu: true
 	</section>
 </section>
 
+<!-- Three -->
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>What's Next?</h2>
+		</header>
+		<p>I’m constantly working on new projects and exploring fresh ideas. Stay tuned for more exciting updates coming soon! 🚀</p>
+	</div>
+</section>
+
 </div>
